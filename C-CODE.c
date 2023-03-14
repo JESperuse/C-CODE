@@ -26,5 +26,4 @@ int main()
 	printf("min=%d\n", f);
 	printf("X=%d\n", x);
 	return 0;
-	
 }
